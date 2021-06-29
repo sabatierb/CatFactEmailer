@@ -1,0 +1,26 @@
+send email to a subscriber list
+allow users to select frequency and content
+deliver announcement and articles
+allow users to subcribe/unsubscribe
+manage users preferences
+
+subcriber list:
+
+EMAIL		FREQUENCY			TYPE OF CONTENT	
+		daily/weekly			1,2 (weekly can only be 1)
+
+
+
+announcements:
+
+contentID		text		datetime stamp
+
+
+articles:
+
+ARTICLE ID		articleBody 	datetime stamp
+
+
+
+1 = Article
+2 = Announcment
